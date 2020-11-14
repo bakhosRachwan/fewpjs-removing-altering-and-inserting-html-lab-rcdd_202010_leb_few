@@ -1,2 +1,2 @@
 // Write your code here!
-main.removeChild(main.querySelector('main#main'));
+main.remove(main.querySelector('main#main'));
