@@ -1,4 +1,4 @@
 // Write your code here!
 main.remove(main.querySelector('main#main'));
-let element = document.createElement('h1#victory')
-element.innerHTML = 'nerHeader';
+let newHeader = document.createElement('h1#victory')
+newHeader.innerHTML = 'B is the champ';
