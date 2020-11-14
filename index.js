@@ -2,4 +2,4 @@
 main.remove(main.querySelector('main#main'));
 let newHeader = document.createElement('h1')
 newHeader.id = 'victory';
-newHeader.innerHTML = ''
+newHeader.innerHTML = 'B is the champion';
